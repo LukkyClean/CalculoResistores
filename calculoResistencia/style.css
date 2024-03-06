@@ -1,0 +1,47 @@
+option:hover{
+    display: none;
+}
+.Preta{
+    background-color: black;
+    color: white;
+}
+.Marrom{
+    background-color: brown;
+    color: white;
+}
+.Vermelho{
+    background-color: red;
+    color: white;
+}
+.Laranja{
+    background-color: orange;
+    color: white;
+}
+.Amarelo{
+    background-color: yellow;
+    color: black;
+}
+.Verde{
+    background-color: green;
+    color: white;
+}
+.Azul{
+    background-color: blue;
+    color: white;
+}
+.Violeta{
+    background-color: violet;
+    color: white;
+}
+.Cinza{
+    background-color: gray;
+    color: white;
+}
+.Dourado{
+    background-color: gold;
+    color: black;
+}
+.Prateado{
+    background-color: silver;
+    color: white;
+}
